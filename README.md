@@ -185,4 +185,4 @@ Full column reference: [`docs/data_dictionary.md`](docs/data_dictionary.md)
 
 Built as a portfolio project to demonstrate an end-to-end data analytics workflow — from raw data to business recommendations — using industry-standard tools.
 
-**Contact:** [Your Name] · [LinkedIn URL] · [Email]
+**Contact:** Timnit Gebregergis · https://www.linkedin.com/in/timnitgebregergis/ · timnitgebregergis@gmail.com

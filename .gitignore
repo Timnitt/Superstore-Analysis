@@ -1,0 +1,7 @@
+# Ignore Power BI files
+*.pbix
+
+# Ignore temporary Excel or system files
+~$*
+.DS_Store
+Thumbs.db

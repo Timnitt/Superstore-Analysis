@@ -88,7 +88,7 @@ superstore-analysis/
 | Tool | Purpose |
 |---|---|
 | Microsoft Excel / Power Query | Data cleaning and validation |
-| MySQL | Data analysis, KPI queries, SQL views |
+| MSSQL | Data analysis, KPI queries, SQL views |
 | Power BI Desktop | Data modelling, DAX measures, dashboard |
 
 ---
@@ -183,6 +183,6 @@ Full column reference: [`docs/data_dictionary.md`](docs/data_dictionary.md)
 
 ## About this project
 
-Built as a portfolio project to demonstrate an end-to-end data analytics workflow — from raw data to business recommendations — using industry-standard tools.
+Built as a portfolio project to demonstrate an end-to-end data analytics workflow — from raw data to business recommendations- using industry-standard tools.
 
 **Contact:** Timnit Gebregergis · https://www.linkedin.com/in/timnitgebregergis/ · timnitgebregergis@gmail.com

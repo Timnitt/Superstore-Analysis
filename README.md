@@ -1,6 +1,6 @@
 # Superstore Sales Analysis
 
-**End-to-end retail analytics project** using SQL for data analysis and Power BI for interactive dashboards — built to answer real business questions about profitability, discounting, and regional performance.
+**End-to-end retail analytics project** using SQL for data analysis and Power BI for interactive dashboards- built to answer real business questions about profitability, discounting, and regional performance.
 
 ---
 

@@ -176,7 +176,7 @@ Full column reference: [`docs/data_dictionary.md`](docs/data_dictionary.md)
 
 **Power BI dashboard**
 1. Open `dashboard/Sales_dashboard.pbix` in Power BI Desktop
-2. Update the data source connection to point to your MySQL instance (or load the CSV directly)
+2. Update the data source connection to point to your MSSQL instance (or load the CSV directly)
 3. Refresh the data model
 
 ---

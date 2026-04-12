@@ -35,7 +35,7 @@ The Superstore dataset contains ~10,000 retail transactions across the United St
 
 **Page 1 — Sales overview**
 
-[![Sales Overview Dashboard](screenshots/dashboard_sales_overview.png)](https://github.com/Timnitt/Superstore-Analysis/blob/main/screenshots/Overview.PNG)
+https://github.com/Timnitt/Superstore-Analysis/blob/main/screenshots/Overview.PNG
 
 Tracks total revenue, profit, and order volume over time. Highlights monthly seasonality and year-over-year growth.
 
@@ -47,7 +47,6 @@ Breaks down sales and profit by region, state, category, and sub-category. Ident
 
 **Page 3 — Profitability and discount impact**
 
-![Discount Impact Dashboard](screenshots/dashboard_discount_impact.png)
 https://github.com/Timnitt/Superstore-Analysis/blob/main/screenshots/Profitablity%20and%20discounts.PNG
 
 Analyses the relationship between discount levels, sales volume, and profit margin. Reveals the discount thresholds where profit turns negative.
@@ -137,7 +136,7 @@ GROUP BY region, category, sub_category, discount
 ORDER BY discount;
 ```
 
-Full queries and views: [`sql/superstore_analysis.sql`](sql/superstore_analysis.sql) and [`sql/superstore_views.sql`](sql/superstore_views.sql)
+Full queries and views: [`SQL_analysis/superstoreanalysis.sql`](SQL_analysis/superstoreanalysis.sql) and [`SQL_analysis/superstore_view.sql`](SQL_analysis/superstore_view.sql)
 
 ---
 
@@ -184,6 +183,6 @@ Full column reference: [`docs/data_dictionary.md`](docs/data_dictionary.md)
 
 ## About this project
 
-Built as a portfolio project to demonstrate an end-to-end data analytics workflow — from raw data to business recommendations- using industry-standard tools.
+Built as a portfolio project to demonstrate an end-to-end data analytics workflow - from raw data to business recommendations- using industry-standard tools.
 
 **Contact:** Timnit Gebregergis · https://www.linkedin.com/in/timnitgebregergis/ · timnitgebregergis@gmail.com

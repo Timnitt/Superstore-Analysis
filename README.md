@@ -35,19 +35,19 @@ The Superstore dataset contains ~10,000 retail transactions across the United St
 
 **Page 1 — Sales overview**
 
-https://github.com/Timnitt/Superstore-Analysis/blob/main/screenshots/Overview.PNG
+[`screenshots/Overview.PNG`](screenshots/Overview.PNG)
 
 Tracks total revenue, profit, and order volume over time. Highlights monthly seasonality and year-over-year growth.
 
 **Page 2 — Regional and category performance**
 
-https://github.com/Timnitt/Superstore-Analysis/blob/main/screenshots/Regional.PNG
+[`screenshots/Regional.PNG`](screenshots/Regional.PNG)
 
 Breaks down sales and profit by region, state, category, and sub-category. Identifies top performers and loss-making products.
 
 **Page 3 — Profitability and discount impact**
 
-https://github.com/Timnitt/Superstore-Analysis/blob/main/screenshots/Profitablity%20and%20discounts.PNG
+[`screenshots/Profitablity%20and%20discounts.PNG`](screenshots/Profitablity%20and%20discounts.PNG)
 
 Analyses the relationship between discount levels, sales volume, and profit margin. Reveals the discount thresholds where profit turns negative.
 
